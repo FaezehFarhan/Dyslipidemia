@@ -1,8 +1,11 @@
-Project Title: Dyslipidemia Prediction using Machine Learning and Deep Learning
+Project Title :  Dyslipidemia Prediction using Machine Learning and Deep Learning
+
 Overview:
+
 Dyslipidemia is a significant health condition that can lead to severe cardiovascular diseases if not detected and managed properly. The goal of this project is to build and evaluate models that can accurately predict dyslipidemia using both machine learning (ML) and deep learning (DL) techniques. Given the potential risks of false negatives in medical diagnosis, the key focus is on maximizing recall, ensuring that the model identifies as many patients with dyslipidemia as possible, while minimizing the number of false negatives.
 
 Project Structure:
+
 The project is divided into the following sections:
 
 Data Exploration and Preprocessing
